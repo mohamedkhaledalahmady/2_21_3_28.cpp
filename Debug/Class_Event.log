@@ -1,0 +1,8 @@
+﻿  Class_Event.cpp
+C:\Users\M&G\source\repos\Class_Event\Class_Event\Class_Event.cpp(100,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M&G\source\repos\Class_Event\Class_Event\Class_Event.cpp(103,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\M&G\source\repos\Class_Event\Class_Event\Class_Event.cpp(104,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\M&G\source\repos\Class_Event\Class_Event\Class_Event.cpp(108,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\M&G\source\repos\Class_Event\Class_Event\Class_Event.cpp(110,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\M&G\source\repos\Class_Event\Class_Event\Class_Event.cpp(112,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Class_Event.vcxproj -> C:\Users\M&G\source\repos\Class_Event\Debug\Class_Event.exe
